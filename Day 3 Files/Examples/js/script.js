@@ -103,4 +103,32 @@ var nope = false;
 
 
 
+//Order of operations
+//PEMDAS
+//Please Excuse My Dear Aunt Sally
+//Parthenthesis, Exponents, Multiply, Add, Subtract
+
+//Find the average of 4 Quiz Grades
+var quiz1 = 87;
+var quiz2 = 100;
+var quiz3 = 70;
+var quiz4 = 80;
+
+//Find the average, add all together and then divide by  the total number of quizes
+
+var average = (quiz1 + quiz2 + quiz3 + quiz4) /4;
+
+//Do not over use Parenthesis
+
+//Find the perimeter of a rectangle
+// Length * 2 + Width * 2
+
+//Create variable for GIVENS!!
+
+var length = 7;
+var width = 6;
+
+var perimeter = (length * 2) + (width *2);
+console.log(perimeter);
+
 

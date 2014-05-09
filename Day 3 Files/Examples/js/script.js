@@ -70,4 +70,27 @@ a*=6;// a = a * 6;
 console.log(a);
 
 
+//Strings
+//" or ' used to find the beginging and end of string
+// Needed to distinguish between variable names and normal text
+
+var kermit ="light green";
+
+var frogName = "kermit";
+
+//Double or single quotes?
+
+var courseName = 'Web Programming Fundamnetals';
+
+var phrase = 'I don\'t know.\n New Line starts here.';
+console.log(phrase);
+
+
+//Escapping character \ backslash
+
+// \n - new line character
+
+
+
+
 

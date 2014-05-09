@@ -91,6 +91,16 @@ console.log(phrase);
 // \n - new line character
 
 
+//Boolean
+// true or a false
+//NOT the text value of it!
+
+var yes = true;
+//Not boolean just text
+var maybe = "true";
+
+var nope = false;
+
 
 
 

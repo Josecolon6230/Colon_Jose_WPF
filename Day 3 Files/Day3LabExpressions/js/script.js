@@ -61,3 +61,25 @@ var average = total / 5;
 //console.log(average);
 
 console.log("You have spent a total of $"+total+" on groceries over 5 weeks. That is a average of $"+average+" per week.")
+
+
+//Discounts
+
+//Calculate he price of a tax less Riot point card and the discount price
+var lol = "Riot Points";
+
+var points = 10.00;
+
+var discount = .5;
+
+var salesTax = 0; //Points can not be taxed
+
+var tax = 0;
+
+var noTax = 0;
+
+// price of points * discount = original price
+
+var finalPrice = points * discount;
+
+console.log("Your "+lol+" was originally $"+points+", but after a "+discount+"% discount it is now $"+finalPrice+" without tax, and $"+finalPrice+" with tax.");

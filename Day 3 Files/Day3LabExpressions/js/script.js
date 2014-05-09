@@ -40,3 +40,24 @@ console.log("Sparky got "+sparky+" slices of pizza.")
 
 //Find out the total amount of money spent in 5 weeks for grocery and its average
 
+
+
+var week1 = 80;
+var week2 = 70;
+var week3 = 90;
+var week4 = 60;
+var week5 = 100;
+
+//add each week of grocery to get total
+
+var total = week1 + week2 + week3 + week4 + week5;
+
+//console.log(total);
+
+//Divide the total by he week amount to get average
+
+var average = total / 5;
+
+//console.log(average);
+
+console.log("You have spent a total of $"+total+" on groceries over 5 weeks. That is a average of $"+average+" per week.")

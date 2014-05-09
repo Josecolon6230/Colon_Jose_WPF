@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.41125542" vertical-offset="0" max-vertical-offset="693">
+            <state line="39" column="0" selection-start="640" selection-end="640" vertical-scroll-proportion="0.75757575" vertical-offset="0" max-vertical-offset="693">
               <folding />
             </state>
           </provider>
@@ -108,38 +108,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Day 3 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day 3 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day 3 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day 3 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Day 3 Files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Examples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,13 +212,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.1991342" vertical-offset="177" max-vertical-offset="900">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="7" selection-start="145" selection-end="145" vertical-scroll-proportion="0.22421524" vertical-offset="0" max-vertical-offset="669" />
@@ -279,9 +240,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="266" selection-end="266" vertical-scroll-proportion="0.15584415" vertical-offset="207" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day3LabExpressions/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.41125542" vertical-offset="0" max-vertical-offset="693">
+        <state line="39" column="0" selection-start="640" selection-end="640" vertical-scroll-proportion="0.75757575" vertical-offset="0" max-vertical-offset="693">
           <folding />
         </state>
       </provider>

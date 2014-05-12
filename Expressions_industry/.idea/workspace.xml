@@ -35,10 +35,19 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="693">
+            <state line="31" column="44" selection-start="749" selection-end="749" vertical-scroll-proportion="0.6838235" vertical-offset="0" max-vertical-offset="680">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day4_arrays.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Day 4 files/js/day4_arrays.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="600" max-vertical-offset="1305">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,6 +143,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day 4 files/js/day4_arrays.js" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -230,9 +240,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Day 4 files/js/day4_arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1305">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="54" selection-end="54" vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="693">
+        <state line="31" column="44" selection-start="749" selection-end="749" vertical-scroll-proportion="0.6838235" vertical-offset="0" max-vertical-offset="680">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

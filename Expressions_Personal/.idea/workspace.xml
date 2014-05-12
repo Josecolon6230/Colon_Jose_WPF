@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96b7057c-8181-4e67-b777-5518fc4de366" name="Default" comment="" />
-    <ignored path="Day 4 files.iws" />
+    <list default="true" id="f88d2db5-7ed2-460e-92c6-70f2451e5bb6" name="Default" comment="" />
+    <ignored path="Expressions_Personal.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,10 +19,58 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Day 4 files" />
+    <favorites_list name="Expressions_Personal" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="31" selection-start="101" selection-end="101" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="0" selection-start="752" selection-end="752" vertical-scroll-proportion="0.67099565" vertical-offset="0" max-vertical-offset="693">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day4_casting.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Day 4 files/js/day4_casting.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="29" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="975">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day4_prompts.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Day 4 files/js/day4_prompts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Day 4 files/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -32,10 +80,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/day4_arrays.js" />
-        <option value="$PROJECT_DIR$/js/day4_prompts.js" />
-        <option value="$PROJECT_DIR$/Index.html" />
-        <option value="$PROJECT_DIR$/js/day4_casting.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../Day 4 files/js/day4_casting.js" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -76,27 +123,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemId" value="Expressions_Personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -115,7 +162,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day 4 files/js/day4_prompts.js" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -159,21 +206,21 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96b7057c-8181-4e67-b777-5518fc4de366" name="Default" comment="" />
-      <created>1399919178716</created>
-      <updated>1399919178716</updated>
+      <changelist id="f88d2db5-7ed2-460e-92c6-70f2451e5bb6" name="Default" comment="" />
+      <created>1399933124396</created>
+      <updated>1399933124396</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1400" height="790" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -205,35 +252,40 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/day4_prompts.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="45" selection-end="45" vertical-scroll-proportion="0.08658009" vertical-offset="0" max-vertical-offset="693">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/day4_arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="0" selection-start="1817" selection-end="1817" vertical-scroll-proportion="0.8701299" vertical-offset="612" max-vertical-offset="1305">
+        <state line="4" column="31" selection-start="101" selection-end="101" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/day4_casting.js">
+    <entry file="file://$PROJECT_DIR$/../Day 4 files/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="65" selection-start="318" selection-end="318" vertical-scroll-proportion="-0.14718615" vertical-offset="342" max-vertical-offset="1035">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="9" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
+    <entry file="file://$PROJECT_DIR$/../Day 4 files/js/day4_casting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669">
+        <state line="32" column="29" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="975">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Day 4 files/js/day4_prompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="752" selection-end="752" vertical-scroll-proportion="0.67099565" vertical-offset="0" max-vertical-offset="693">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

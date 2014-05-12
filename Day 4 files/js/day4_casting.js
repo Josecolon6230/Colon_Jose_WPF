@@ -14,7 +14,7 @@ var stringVar = Number("6");
 var result = 7+Number(stringVar);
 console.log(result);
 
-//Cast by wrapping the variable in the datatype you want it to be
+//Cast by wrapping the variable in the data type you want it to be
 //number(); - whatever is inside will be treated as number
 
 

@@ -13,7 +13,7 @@ Conditionals Exercise
 //If the child is tall enough, print to the console that he can ride a roller coaster
 
 
-var tallEnough = false;
+var tallEnough = true;
 
 /*
 if(thing to evaluate){
@@ -24,6 +24,9 @@ if(thing to evaluate){
 if(tallEnough){
     //code will run if the kid is tall enough
     console.log("You can ride the roller coaster");
+} else {
+    //Code will run if the kid is not tall enough
+    console.log("Sorry kid you are not tall enough");
 }
 
 console.log("What comes after");

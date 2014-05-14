@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js" afterPath="$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 5 files/index.html" afterPath="$PROJECT_DIR$/Day 5 files/index.html" />
     </list>
     <ignored path="Colon_Jose_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,16 +28,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 5 files/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="225">
+            <state line="4" column="35" selection-start="96" selection-end="96" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day5_Conditionals.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js">
+      <file leaf-file-name="day5_Logical.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Logical.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="47" selection-start="608" selection-end="608" vertical-scroll-proportion="0.73593074" vertical-offset="0" max-vertical-offset="705">
+            <state line="26" column="1" selection-start="417" selection-end="417" vertical-scroll-proportion="0.56277055" vertical-offset="0" max-vertical-offset="693">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -58,8 +58,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Day 5 files/index.html" />
         <option value="$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js" />
+        <option value="$PROJECT_DIR$/Day 5 files/index.html" />
+        <option value="$PROJECT_DIR$/Day 5 files/js/day5_Logical.js" />
       </list>
     </option>
   </component>
@@ -76,7 +77,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -247,16 +248,25 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="47" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="705">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5 files/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="225">
+        <state line="4" column="35" selection-start="96" selection-end="96" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js">
+    <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Logical.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="47" selection-start="608" selection-end="608" vertical-scroll-proportion="0.73593074" vertical-offset="0" max-vertical-offset="705">
+        <state line="26" column="1" selection-start="417" selection-end="417" vertical-scroll-proportion="0.56277055" vertical-offset="0" max-vertical-offset="693">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

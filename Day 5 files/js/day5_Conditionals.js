@@ -7,13 +7,15 @@ Conditionals Exercise
 //alert("Testing");
 
 
-//Basic Conditional - If Statement
+//Relational Expression
 
 
-//If the child is tall enough, print to the console that he can ride a roller coaster
+//If the child is not over 48" tall, then he can't ride
 
 
-var tallEnough = true;
+var kidHeight = 50;
+
+var minHeight = 48;
 
 /*
 if(thing to evaluate){
@@ -21,7 +23,7 @@ if(thing to evaluate){
 }
  */
 
-if(tallEnough){
+if(kidHeight >= minHeight){
     //code will run if the kid is tall enough
     console.log("You can ride the roller coaster");
 } else {

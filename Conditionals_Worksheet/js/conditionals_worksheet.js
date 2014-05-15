@@ -12,9 +12,9 @@ Conditional worksheet
 // should the driver fill up the tank or not?
 
 
-var gasEff = 8; //8 miles per gallon
+var gasEff = 15; // miles per gallon
 
-var amountInTank = 29; //amount in tank in gallons
+var amountInTank = prompt("How much gas do you have? (gallons)"); //amount in tank in gallons
 
 var distance = 200; //miles of desert/ next gas station
 
@@ -35,7 +35,7 @@ if(drive > distance){
 //Grade letter calculator
 //Student gets their work graded lets find out they letter grade earned for all the work done
 
-var studentGrade = 80; // percent grade
+var studentGrade = prompt("What is your number grade? "); // percent grade
 
 var a=  90;
 

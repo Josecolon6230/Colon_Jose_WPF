@@ -28,3 +28,31 @@ console.log(Math.floor(num2));
 var num3 = 4.8;
 console.log(num3);
 console.log(Math.ceil(num3));
+
+
+//Random numbers
+//Math.random()
+//Gives a random number between 0 -> 1
+
+var num4 = Math.random();
+console.log(num4);
+
+
+//random number between 0 and 10
+
+var num5 = Math.random()*10;
+console.log(num5);
+
+//random integer between 0 -> 100
+var num6 = Math.round(Math.random()*100);
+console.log(num6);
+
+
+//Get a random integer between two numbers
+//Math.random() * (max-min) + min
+
+//integer between 50 -> 80
+
+var num7 = Math.round(Math.random() * (30) + 50);
+console.log(num7);
+

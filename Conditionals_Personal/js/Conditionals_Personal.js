@@ -26,9 +26,12 @@ var forKinect = amountNeeded + 100;
 
 var forTitan = amountNeeded + 200;
 
-
+//The ternary way is the original way i planned
 (moneyHave >= xbox) ? console.log("Go to the nearest store and get yourself a Xbox One!"): console.log("You are still missing $"+amountNeeded+" better save up for a little longer.");
 
+
+
+//Vid wanted me to try and add more like the different types of Xbox Ones and bundles and this was me giving it a try
 
 if(moneyHave<400){
     console.log("You are still missing $"+amountNeeded+" for a Xbox One, and if you want Kinect you will need $"+forKinect+" or $"+forTitan+" for the the Titanfall bundle.");

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js" afterPath="$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js" />
-    </list>
+    <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="" />
     <ignored path="Colon_Jose_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,18 +24,18 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+            <state line="9" column="7" selection-start="152" selection-end="152" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals_Industry.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js">
+      <file leaf-file-name="Conditionals_Wacky.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/Conditionals_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.34632036" vertical-offset="0" max-vertical-offset="693">
+            <state line="17" column="0" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -45,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day5_Logical.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Logical.js">
+      <file leaf-file-name="Conditionals_Industry.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="61" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+            <state line="24" column="58" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day5_Ternary.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Ternary.js">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="46" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="720">
+            <state line="9" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669">
               <folding />
             </state>
           </provider>
@@ -90,6 +88,8 @@
         <option value="$PROJECT_DIR$/Conditionals_Personal/js/Conditionals_Personal.js" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js" />
+        <option value="$PROJECT_DIR$/Conditionals_Wacky/index.html" />
+        <option value="$PROJECT_DIR$/Conditionals_Wacky/js/Conditionals_Wacky.js" />
       </list>
     </option>
   </component>
@@ -154,7 +154,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 5 files" />
+              <option name="myItemId" value="Day 6 files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -168,7 +168,71 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 5 files" />
+              <option name="myItemId" value="Day 6 files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 4 files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Wacky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -338,11 +402,6 @@
         <state line="34" column="47" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 4 files/js/day4_prompts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Worksheet/js/conditionals_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="2" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.3073593" vertical-offset="717" max-vertical-offset="1410" />
@@ -381,15 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Math.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="41" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="642" max-vertical-offset="1350">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Personal/js/Conditionals_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="19" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="765">
@@ -399,33 +449,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
+    <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Ternary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+        <state line="37" column="46" selection-start="839" selection-end="839" vertical-scroll-proportion="0.7128427" vertical-offset="1" max-vertical-offset="720">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 3 Files/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.34199134" vertical-offset="237" max-vertical-offset="930">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4 files/js/day4_arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Logical.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="61" selection-start="692" selection-end="692" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state line="39" column="35" selection-start="728" selection-end="728" vertical-scroll-proportion="0.75757575" vertical-offset="0" max-vertical-offset="693">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Ternary.js">
+    <entry file="file://$PROJECT_DIR$/Day 4 files/js/day4_prompts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="46" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="720">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 4 files/js/day4_casting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1035">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="41" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1350">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.34632036" vertical-offset="0" max-vertical-offset="693">
+        <state line="24" column="58" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="152" selection-end="152" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/js/Conditionals_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_Industry/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="158" selection-end="158" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669">
+          <folding />
         </state>
       </provider>
     </entry>

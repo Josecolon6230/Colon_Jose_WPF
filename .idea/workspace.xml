@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6 files/js/day6_Nestingifs.js" afterPath="$PROJECT_DIR$/Day 6 files/js/day6_Nestingifs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 6 files/index.html" afterPath="$PROJECT_DIR$/Day 6 files/index.html" />
     </list>
     <ignored path="Colon_Jose_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,30 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 6 files/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="38" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+            <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day6_Elseif.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Elseif.js">
+      <file leaf-file-name="day6_Math.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Math.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="58" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day6_Nestingifs.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Nestingifs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="4" selection-start="591" selection-end="591" vertical-scroll-proportion="0.58441556" vertical-offset="0" max-vertical-offset="693">
+            <state line="29" column="29" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -76,8 +65,9 @@
         <option value="$PROJECT_DIR$/Conditionals_Worksheet/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Worksheet/js/conditionals_worksheet.js" />
         <option value="$PROJECT_DIR$/Day 6 files/js/day6_Elseif.js" />
-        <option value="$PROJECT_DIR$/Day 6 files/index.html" />
         <option value="$PROJECT_DIR$/Day 6 files/js/day6_Nestingifs.js" />
+        <option value="$PROJECT_DIR$/Day 6 files/index.html" />
+        <option value="$PROJECT_DIR$/Day 6 files/js/day6_Math.js" />
       </list>
     </option>
   </component>
@@ -277,7 +267,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="2" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1410">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -311,7 +301,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="62" column="2" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.3073593" vertical-offset="717" max-vertical-offset="1410">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -327,6 +317,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="58" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735">
           <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Nestingifs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="4" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
@@ -334,17 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 6 files/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Nestingifs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="4" selection-start="591" selection-end="591" vertical-scroll-proportion="0.58441556" vertical-offset="0" max-vertical-offset="660">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

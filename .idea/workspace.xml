@@ -28,27 +28,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 7 files/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
+            <state line="4" column="45" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day7_Beer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Beer.js">
+      <file leaf-file-name="day7_validatingPrompts.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_validatingPrompts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="27" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day7_Zombies.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="0.6060606" vertical-offset="180" max-vertical-offset="930">
+            <state line="45" column="0" selection-start="984" selection-end="984" vertical-scroll-proportion="0.8701299" vertical-offset="72" max-vertical-offset="765">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -88,8 +77,9 @@
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js" />
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_forLoops.js" />
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_Beer.js" />
-        <option value="$PROJECT_DIR$/Day 7 files/index.html" />
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js" />
+        <option value="$PROJECT_DIR$/Day 7 files/index.html" />
+        <option value="$PROJECT_DIR$/Day 7 files/js/day7_validatingPrompts.js" />
       </list>
     </option>
   </component>
@@ -387,7 +377,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1365">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -409,7 +399,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 6 files/js/day6_Math.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="41" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1350" />
+        <state line="46" column="41" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1350">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_Wacky/index.html">
@@ -458,25 +452,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7 files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Beer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="27" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="0.6060606" vertical-offset="180" max-vertical-offset="930">
+        <state line="46" column="0" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="930">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="45" selection-start="106" selection-end="106" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_validatingPrompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="984" selection-end="984" vertical-scroll-proportion="0.8701299" vertical-offset="72" max-vertical-offset="765">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

@@ -37,7 +37,7 @@ console.log("Ending counter "+counter);
 
 //Initialize the variable
 
-var i = 20;
+var i = 0;
 
 //Setup the Do while loop
 

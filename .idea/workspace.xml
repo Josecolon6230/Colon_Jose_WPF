@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="" />
+    <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_Worksheet/js/Loops_Worksheet.js" afterPath="$PROJECT_DIR$/Loops_Worksheet/js/Loops_Worksheet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js" afterPath="$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js" afterPath="$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7 files/index.html" afterPath="$PROJECT_DIR$/Day 7 files/index.html" />
+    </list>
     <ignored path="Colon_Jose_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +40,7 @@
       <file leaf-file-name="Loops_Worksheet.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Loops_Worksheet/js/Loops_Worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="693">
+            <state line="15" column="59" selection-start="243" selection-end="243" vertical-scroll-proportion="0.32467532" vertical-offset="0" max-vertical-offset="693">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -72,13 +77,13 @@
         <option value="$PROJECT_DIR$/Conditionals_Industry/js/Conditionals_Industry.js" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_Wacky/js/Conditionals_Wacky.js" />
-        <option value="$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js" />
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_forLoops.js" />
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_Beer.js" />
-        <option value="$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js" />
-        <option value="$PROJECT_DIR$/Day 7 files/index.html" />
         <option value="$PROJECT_DIR$/Day 7 files/js/day7_validatingPrompts.js" />
         <option value="$PROJECT_DIR$/Loops_Worksheet/index.html" />
+        <option value="$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js" />
+        <option value="$PROJECT_DIR$/Day 7 files/index.html" />
+        <option value="$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js" />
         <option value="$PROJECT_DIR$/Loops_Worksheet/js/Loops_Worksheet.js" />
       </list>
     </option>
@@ -434,55 +439,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="43" selection-start="933" selection-end="933" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="900">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_forLoops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Beer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="27" selection-start="648" selection-end="648" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
           <folding>
             <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="0" selection-start="901" selection-end="901" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="930">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_validatingPrompts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="30" selection-start="652" selection-end="652" vertical-scroll-proportion="0.6753247" vertical-offset="27" max-vertical-offset="1035">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7 files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="106" selection-end="106" vertical-scroll-proportion="0.089686096" vertical-offset="0" max-vertical-offset="669">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,9 +455,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_WhileLoops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="888" selection-end="888" vertical-scroll-proportion="0.0" vertical-offset="12" max-vertical-offset="840">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_validatingPrompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="30" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="1035">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="46" selection-start="107" selection-end="107" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="177" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_forLoops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="39" selection-start="249" selection-end="249" vertical-scroll-proportion="0.34632036" vertical-offset="0" max-vertical-offset="693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Loops_Worksheet/js/Loops_Worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="51" selection-end="51" vertical-scroll-proportion="0.12987013" vertical-offset="0" max-vertical-offset="693">
+        <state line="15" column="59" selection-start="243" selection-end="243" vertical-scroll-proportion="0.32467532" vertical-offset="0" max-vertical-offset="693">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

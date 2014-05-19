@@ -22,7 +22,7 @@ var days = 9; //Number of days
 
 
 //For loop
-/*
+
 for(var i=1; i<=days; i++){
 
     //How many new zombies get made everyday
@@ -34,16 +34,16 @@ for(var i=1; i<=days; i++){
     numZombies += newZombies; //NumZombies = numZombies + newZombies
     console.log("There are "+numZombies+" zombies at the end of day #"+i);
 
-}*/
-
+}
+/*
 var numDays = 0;
 
 
 
-
+var newZombies =numZombies + numBites;
 while(numZombies < 7000000000){
 
-    var newZombies =numZombies + numBites;
+
 
     //add the new zombies to the total number of zombies
     numZombies += newZombies; //NumZombies = numZombies + newZombies
@@ -54,3 +54,4 @@ while(numZombies < 7000000000){
 
 }
 console.log("It will take "+numDays+" of days to take over the world!");
+*/

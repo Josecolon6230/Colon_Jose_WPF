@@ -11,8 +11,26 @@ Validating Prompts
 //Create random number in between those 2 numbers
 alert("Let's find a random number between two numbers!");
 var min = Number(prompt("Please type in a minimum number:"));
-var max = Number(prompt("Please type in a maximum number:"));
 
+
+//Validate with a loop
+
+while(isNaN(min)){
+
+    //its a text string, prompt again for a number
+
+    min = Number(prompt("Please type in a minimum NUMBER!:"));
+
+
+
+}
+var max = Number(prompt("Please type in a maximum number:"));
+while(isNaN(max)){
+    //Max is a text string
+    max =Number(prompt("Please type in a MAXIMUM NUMBER!:"));
+}
+
+/*
 //Validate our users responses
 //Empty String
 if(min===""){
@@ -34,7 +52,7 @@ if(isNaN(max)){
     max=Number(prompt("Please type in a number!!:"));
 
 }
-
+*/
 
 
 //Generate a random integer

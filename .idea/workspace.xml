@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Worksheet/js/functions_worksheet.js" afterPath="$PROJECT_DIR$/Functions_Worksheet/js/functions_worksheet.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8 files/index.html" afterPath="$PROJECT_DIR$/Day 8 files/index.html" />
     </list>
     <ignored path="Colon_Jose_WPF.iws" />
@@ -37,10 +38,59 @@
       <file leaf-file-name="functions_worksheet.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/functions_worksheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="27" selection-start="102" selection-end="102" vertical-scroll-proportion="0.19480519" vertical-offset="0" max-vertical-offset="693">
+            <state line="23" column="1" selection-start="264" selection-end="264" vertical-scroll-proportion="0.30882353" vertical-offset="135" max-vertical-offset="945">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8_return.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_return.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="16" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="885">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8_arguements.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_arguements.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="237" max-vertical-offset="930">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8 files/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="7" selection-start="134" selection-end="134" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8_functions.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="19" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="282" max-vertical-offset="990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day8_scope.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_scope.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="23" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,9 +136,9 @@
         <option value="$PROJECT_DIR$/Day 8 files/js/day8_functions.js" />
         <option value="$PROJECT_DIR$/Day 8 files/js/day8_scope.js" />
         <option value="$PROJECT_DIR$/Day 8 files/js/day8_arguements.js" />
-        <option value="$PROJECT_DIR$/Day 8 files/index.html" />
         <option value="$PROJECT_DIR$/Day 8 files/js/day8_return.js" />
         <option value="$PROJECT_DIR$/Functions_Worksheet/index.html" />
+        <option value="$PROJECT_DIR$/Day 8 files/index.html" />
         <option value="$PROJECT_DIR$/Functions_Worksheet/js/functions_worksheet.js" />
       </list>
     </option>
@@ -169,6 +219,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Functions_Worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 8 files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Colon_Jose_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day 8 files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -509,28 +591,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_Looparrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+        <state line="31" column="0" selection-start="488" selection-end="488" vertical-scroll-proportion="0.54545456" vertical-offset="27" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Worksheet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="135" selection-end="135" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_scope.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="23" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_functions.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="19" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="1050">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_scope.js">
+    <entry file="file://$PROJECT_DIR$/Day 8 files/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="23" selection-start="497" selection-end="497" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+        <state line="8" column="7" selection-start="134" selection-end="134" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="225">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -543,32 +633,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 8 files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="34" selection-start="95" selection-end="95" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_return.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="146" selection-end="146" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="885">
+        <state line="42" column="16" selection-start="651" selection-end="651" vertical-scroll-proportion="0.0" vertical-offset="192" max-vertical-offset="885">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Worksheet/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="135" selection-end="135" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Worksheet/js/functions_worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="27" selection-start="102" selection-end="102" vertical-scroll-proportion="0.19480519" vertical-offset="0" max-vertical-offset="693">
+        <state line="23" column="1" selection-start="264" selection-end="264" vertical-scroll-proportion="0.30882353" vertical-offset="135" max-vertical-offset="945">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

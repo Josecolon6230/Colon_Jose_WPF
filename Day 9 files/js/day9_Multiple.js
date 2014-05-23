@@ -11,7 +11,25 @@ Multiple Functions
 
  //Prompt the user for width and height
  var width = Number(prompt("Please type in a Rect width:"));
+
+ //Validate user input for width
+ //While loop to check if the user inputted a # and didn't leave it blank
+ while(isNaN(width) || width===""){
+
+width = Number(prompt("Please type in a Rect Width:"));
+
+ }
+
  var height = Number(prompt("Please type in a Rect Height:"));
+
+ while(isNaN(height) || height===""){
+
+     height = Number(prompt("Pleas type in a Rect Height:"));
+ }
+
+
+
+
 
  //Create a fucntion call to perimeter
 

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 files/js/day9_Multiple.js" afterPath="$PROJECT_DIR$/Day 9 files/js/day9_Multiple.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 files/index.html" afterPath="$PROJECT_DIR$/Day 9 files/index.html" />
     </list>
     <ignored path="Colon_Jose_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,7 +66,7 @@
       <file leaf-file-name="day9_Multiple.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_Multiple.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="41" selection-start="443" selection-end="443" vertical-scroll-proportion="0.50735295" vertical-offset="0" max-vertical-offset="1125">
+            <state line="24" column="1" selection-start="457" selection-end="457" vertical-scroll-proportion="0.5294118" vertical-offset="0" max-vertical-offset="1395">
               <folding />
             </state>
           </provider>
@@ -602,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_Multiple.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="443" selection-end="443" vertical-scroll-proportion="0.50735295" vertical-offset="0" max-vertical-offset="1125">
+        <state line="24" column="1" selection-start="457" selection-end="457" vertical-scroll-proportion="0.5294118" vertical-offset="0" max-vertical-offset="1395">
           <folding />
         </state>
       </provider>

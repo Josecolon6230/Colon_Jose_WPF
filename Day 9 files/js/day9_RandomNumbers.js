@@ -26,10 +26,11 @@ function randomizer(mn, mx){//Use Parameters
 }
 
 //Ask user for min and max values
+//Cast user prompts to numbers
 
-var minUser = prompt("Please insert a min value");
+var minUser = Number(prompt("Please insert a min value"));
 
-var maxUser = prompt("Please insert a max value");
+var maxUser = Number(prompt("Please insert a max value"));
 
 
 
@@ -39,7 +40,7 @@ var maxUser = prompt("Please insert a max value");
 
 //NEED a variable to catch the Returned value
 
-var result =randomizer(20, 100);//Need arguments
+var result =randomizer(minUser, maxUser);//Need arguments
 
 
 //Console log it out

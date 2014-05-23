@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="86884a87-adc2-4aaa-a502-da93956cefa6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js" afterPath="$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 files/js/day9_procedures.js" afterPath="$PROJECT_DIR$/Day 9 files/js/day9_procedures.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9 files/index.html" afterPath="$PROJECT_DIR$/Day 9 files/index.html" />
     </list>
     <ignored path="Colon_Jose_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,16 +30,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9 files/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="145" selection-end="145" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+            <state line="4" column="38" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day9_RandomNumbers.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="day9_RandomNumbers.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="535" selection-end="535" vertical-scroll-proportion="0.67099565" vertical-offset="0" max-vertical-offset="825">
+            <state line="59" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0" vertical-offset="372" max-vertical-offset="1065">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -48,7 +50,16 @@
       <file leaf-file-name="day9_procedures.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_procedures.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+            <state line="8" column="19" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day9_ArraysAdv.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_ArraysAdv.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
               <folding />
             </state>
           </provider>
@@ -100,9 +111,9 @@
         <option value="$PROJECT_DIR$/Day 8 files/index.html" />
         <option value="$PROJECT_DIR$/Functions_Worksheet/js/functions_worksheet.js" />
         <option value="$PROJECT_DIR$/Day 9 files/js/day9.js" />
+        <option value="$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js" />
         <option value="$PROJECT_DIR$/Day 9 files/index.html" />
         <option value="$PROJECT_DIR$/Day 9 files/js/day9_procedures.js" />
-        <option value="$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js" />
       </list>
     </option>
   </component>
@@ -311,11 +322,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Loops_Worksheet/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="225" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Loops_Worksheet/js/Loops_Worksheet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="0" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1425" />
@@ -553,26 +559,33 @@
         <state line="9" column="7" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="46" selection-start="1023" selection-end="1023" vertical-scroll-proportion="0.0" vertical-offset="372" max-vertical-offset="1065">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day 9 files/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="145" selection-end="145" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+        <state line="4" column="38" selection-start="99" selection-end="99" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_procedures.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+        <state line="8" column="19" selection-start="74" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_RandomNumbers.js">
+    <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_ArraysAdv.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="535" selection-end="535" vertical-scroll-proportion="0.67099565" vertical-offset="0" max-vertical-offset="825">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693">
+          <folding />
         </state>
       </provider>
     </entry>

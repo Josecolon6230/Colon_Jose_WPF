@@ -47,3 +47,19 @@ var result =randomizer(minUser, maxUser);//Need arguments
 
 console.log(result);
 
+
+//Create a loop to give us 15 random integers
+
+
+for(var i=0; i<15;i++){
+
+    //create a random integer
+    //console.log(result); DOES NOT WORK
+
+    //Must function call to start the function
+    console.log(randomizer(minUser, maxUser));
+
+
+
+}
+

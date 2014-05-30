@@ -22,7 +22,26 @@
     <favorites_list name="Colon_Jose_WPF" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Final Exam WPF/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="finalExam.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Final Exam WPF/js/finalExam.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="12" selection-start="28" selection-end="28" vertical-scroll-proportion="0.066176474" vertical-offset="0" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -82,6 +101,8 @@
         <option value="$PROJECT_DIR$/Functions_Personal/js/functions_personal.js" />
         <option value="$PROJECT_DIR$/Day 5 files/js/day5_Ternary.js" />
         <option value="$PROJECT_DIR$/Functions_Industry/js/functions_industry.js" />
+        <option value="$PROJECT_DIR$/Final Exam WPF/index.html" />
+        <option value="$PROJECT_DIR$/Final Exam WPF/js/finalExam.js" />
       </list>
     </option>
   </component>
@@ -177,7 +198,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 5 files" />
+              <option name="myItemId" value="Final Exam WPF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -191,7 +212,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 5 files" />
+              <option name="myItemId" value="Final Exam WPF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -216,6 +237,14 @@
     <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -226,23 +255,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -282,13 +303,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="22" width="1400" height="790" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -296,11 +317,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -322,16 +343,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Conditionals_Worksheet/js/conditionals_worksheet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="2" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="930" max-vertical-offset="1410" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5 files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="35" selection-start="96" selection-end="96" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="47" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
@@ -534,56 +545,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9 files/js/day9_Anonymous .js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="9" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1020">
-          <folding />
-        </state>
+        <state line="4" column="9" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1020" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="43" selection-start="111" selection-end="111" vertical-scroll-proportion="0.089686096" vertical-offset="0" max-vertical-offset="669">
-          <folding />
-        </state>
+        <state line="4" column="43" selection-start="111" selection-end="111" vertical-scroll-proportion="0.089686096" vertical-offset="0" max-vertical-offset="669" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Personal/js/functions_personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="56" selection-start="345" selection-end="345" vertical-scroll-proportion="0.64935064" vertical-offset="0" max-vertical-offset="693">
-          <folding />
-        </state>
+        <state line="30" column="56" selection-start="345" selection-end="345" vertical-scroll-proportion="0.64935064" vertical-offset="0" max-vertical-offset="693" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 7 files/js/day7_Zombies.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.15584415" vertical-offset="192" max-vertical-offset="885">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.15584415" vertical-offset="192" max-vertical-offset="885" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8 files/js/day8_arguements.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.21645021" vertical-offset="0" max-vertical-offset="870">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="185" selection-end="185" vertical-scroll-proportion="0.21645021" vertical-offset="0" max-vertical-offset="870" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 5 files/js/day5_Ternary.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="46" selection-start="839" selection-end="839" vertical-scroll-proportion="0.7128427" vertical-offset="1" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="37" column="46" selection-start="839" selection-end="839" vertical-scroll-proportion="0.7128427" vertical-offset="1" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/js/functions_industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="119" selection-start="291" selection-end="291" vertical-scroll-proportion="0.33088234" vertical-offset="0" max-vertical-offset="680">
-          <folding />
-        </state>
+        <state line="15" column="119" selection-start="291" selection-end="291" vertical-scroll-proportion="0.33088234" vertical-offset="0" max-vertical-offset="680" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="152" selection-end="152" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669">
+        <state line="9" column="7" selection-start="152" selection-end="152" vertical-scroll-proportion="0.20179372" vertical-offset="0" max-vertical-offset="669" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam WPF/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
           <folding />
         </state>
       </provider>
@@ -594,6 +596,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam WPF/js/finalExam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="28" selection-end="28" vertical-scroll-proportion="0.066176474" vertical-offset="0" max-vertical-offset="680">
+          <folding />
         </state>
       </provider>
     </entry>
